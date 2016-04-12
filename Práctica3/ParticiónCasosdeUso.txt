@@ -1,0 +1,17 @@
+Usuarios y promociones          (1)->3,(2)->2,(3)->1
+    6
+
+Gestion de restaurantes                 (3)->20
+    10
+
+Gestión pedidos                 (1)->18
+    15 y tope de tocho
+
+Gestión de reservas                 (2)->20
+    11
+
+Gestión de perfil                       (3)
+    9
+
+Gestión valoraciones                (2)
+    7
