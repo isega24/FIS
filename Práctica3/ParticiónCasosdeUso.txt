@@ -15,3 +15,8 @@ Gestión de perfil                       (3)
 
 Gestión valoraciones                (2)
     7
+
+
+(3) Rodrigo
+(2) Iván
+(1) David
