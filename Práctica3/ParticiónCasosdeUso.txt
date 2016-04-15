@@ -1,6 +1,6 @@
 Usuarios y promociones(CU-1)         (1)->3,(2)->2,(3)->1
     6
-    Iván hace 
+    Iván hace CU-1.4,CU-1.5
 
 Gestion de restaurantes(CU-2)                (3)->20
     10
